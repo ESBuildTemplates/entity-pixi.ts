@@ -2,6 +2,7 @@
 
 - Gulp
 - TypeScript
+- @ghom/entity-pixi
 - Browser reloading
 
-[Use this template](https://github.com/ESBuildTemplates/ts-pixi/generate)
+[Use this template](https://github.com/ESBuildTemplates/entity-pixi.ts/generate)
